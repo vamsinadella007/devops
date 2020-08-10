@@ -1,0 +1,4 @@
+this is my new file
+using git bash
+and linux
+this is second line of file
